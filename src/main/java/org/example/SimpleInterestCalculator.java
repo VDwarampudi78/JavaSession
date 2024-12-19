@@ -4,7 +4,8 @@ public class SimpleInterestCalculator {
     public static void main(String[] args) {
         // Declaring and initializing variables
         double principal = 1000;  // Principal amount in currency
-        double rate = 10;         // Interest rate in percentage
+        double rate = 10;
+        // Interest rate in percentage
         double time = 3;           // Time period in years
 
         // Calculating Simple Interest using the formula
